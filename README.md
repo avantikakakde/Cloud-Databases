@@ -1,6 +1,6 @@
 # Cloud-Databases
 
-# ☁️ Cloud SQL on AWS (RDS) — Setup and Connection Demo
+
 
 This project demonstrates how to **create a MySQL database instance on AWS RDS**, connect to it securely (via EC2 ), and perform basic SQL operations.
 
